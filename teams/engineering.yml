@@ -35,7 +35,7 @@ controls:
     minimum_version: "26.0"
 team_settings:
   webhook_settings:
-    failing_poligices_webhook:
+    failing_policies_webhook:
       enable_failing_policies_webhook: true
       destination_url: https://webhook.site
       host_batch_size: 0
